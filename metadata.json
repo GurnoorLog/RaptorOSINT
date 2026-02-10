@@ -1,0 +1,8 @@
+
+{
+  "name": "CTF Sentinel",
+  "description": "An expert AI assistant for web security CTF challenges, featuring automated vulnerability analysis, grounding through Google Search for similar write-ups, and step-by-step exploitation guides.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
