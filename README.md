@@ -1,6 +1,9 @@
 # RAPTOROSINT: CYBER_PREDATOR
 
-**Created by:** Gurnoor Tamber
+![RaptorOSINT Interface](photo_readme.png)
+
+### 👨💻 Developer
+Gurnoor Tamber - Check out my portfolio and more work: [praknoor.dev](https://praknoor.dev)
 
 ## Overview
 
