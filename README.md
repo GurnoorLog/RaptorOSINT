@@ -4,19 +4,17 @@
 
 ## Overview
 
-RAPTOROSINT is an advanced reconnaissance engine engineered for high-stakes cybersecurity operations. It leverages AI-powered intelligence gathering, integration with search engines, and automated vulnerability scanning to map attack surfaces, perform deep OSINT queries across leaked databases, and identify critical security weaknesses.
+RAPTOROSINT is an AI-powered learning tool designed for Capture The Flag (CTF) enthusiasts. It provides intelligent advice, suggests strategies for flag retrieval, and helps users understand complex security challenges through guided reconnaissance.
 
-Developed to secure local nodes and dominate competitive CTF (Capture The Flag) arenas, RAPTOROSINT provides comprehensive guidance on vulnerability discovery and flag retrieval.
+Developed to help users learn the ropes of vulnerability discovery and flag retrieval, RAPTOROSINT provides comprehensive guidance on solving challenges in competitive CTF arenas.
 
 ## Features
 
-- **AI-Powered Reconnaissance** - Leverage AI to automate and enhance OSINT operations
-- **Attack Surface Mapping** - Identify and visualize potential entry points and vulnerabilities
-- **Leaked Database Queries** - Search through compromised data sources for sensitive information
-- **Vulnerability Scanning** - Automated detection of security weaknesses in target systems
-- **CTF Support** - Streamlined tools and workflows for Capture The Flag competitions
-- **Real-time Intelligence** - Interactive chat interface for dynamic threat analysis
-- **Security Assessment** - Generate detailed vulnerability reports and recommendations
+- **Intelligent CTF Advice** - Leverage AI to receive advice and guidance on how to approach complex security challenges.
+- **Flag Retrieval Suggestions** - Get actionable suggestions and strategies for finding and capturing flags in CTF competitions.
+- **Educational Reconnaissance** - Learn the techniques of OSINT and vulnerability discovery through guided workflows.
+- **Interactive Learning** - Engage with an AI assistant to analyze targets and understand security weaknesses in real-time.
+- **Vulnerability Insights** - Gain a deeper understanding of security flaws and how they can be addressed for educational purposes.
 
 ## Installation
 
