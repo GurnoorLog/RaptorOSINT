@@ -71,9 +71,6 @@ This launches the development server. The application provides an intuitive inte
 
 RAPTOROSINT is intended for authorized security testing and educational purposes only. Users are responsible for ensuring compliance with all applicable laws and regulations when using this tool. Unauthorized access to computer systems is illegal.
 
-## License
-
-Proprietary - All rights reserved
 
 ---
 
